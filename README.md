@@ -1,3 +1,6 @@
+### 当リポジトリ及び下記テンプレートの活用例
+https://micro-cms-tutorial-seven.vercel.app/
+
 # シンプルなブログ
 
 ![](public/img-cover.png)
